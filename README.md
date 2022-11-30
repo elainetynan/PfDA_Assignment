@@ -6,7 +6,9 @@ Programming for Data Analysis Assignment
 Added more data to original dataset.
 Started the import of baseline data for comparison to simulated data.
 Looking at how to clean the data.
+
 Interesting sites on data cleaning:
+
 https://towardsdatascience.com/data-cleaning-with-python-and-pandas-detecting-missing-values-3e9c6ebcf78b
 
 https://www.geeksforgeeks.org/drop-rows-from-pandas-dataframe-with-missing-values-or-nan-in-columns/
