@@ -26,6 +26,13 @@ Possible simulated datasets for me:
 2. Birth Weight of babies
 3. Shoe size
 
+On further inspection I have decided to do my investigation on Students grades. In my current role I have access to information on students and am interesting is investigating the correlation between variables. The variables I will be looking at is:
+•	% Attendance
+•	Logon to moodle (or time on Moodle)
+•	% of CA submitted
+•	Grade
+
+
 
 
 References
