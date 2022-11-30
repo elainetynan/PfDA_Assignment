@@ -4,6 +4,24 @@ Programming for Data Analysis Assignment
 30/11/2022
 ----------
 Added more data to original dataset.
+Started the import of baseline data for comparison to simulated data.
+Looking at how to clean the data.
+Interesting sites on data cleaning:
+https://towardsdatascience.com/data-cleaning-with-python-and-pandas-detecting-missing-values-3e9c6ebcf78b
+
+https://www.geeksforgeeks.org/drop-rows-from-pandas-dataframe-with-missing-values-or-nan-in-columns/
+
+https://sparkbyexamples.com/pandas/pandas-drop-rows-with-nan-values-in-dataframe/
+
+https://www.machinelearningplus.com/pandas/pandas-dropna-how-to-drop-missing-values/#:~:text=Dropping%20rows%20if%20missing%20values,names%20to%20the%20subset%20parameter.
+
+https://stackoverflow.com/questions/49841989/python-drop-value-0-row-in-specific-columns
+
+
+
+Possible reference site for later:
+https://towardsdatascience.com/a-simple-way-to-analyze-student-performance-data-with-python-cc09c7508c4c
+
 
 29/11/2022
 ----------
