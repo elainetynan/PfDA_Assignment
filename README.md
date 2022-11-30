@@ -1,6 +1,10 @@
 # PfDA_Assignment
 Programming for Data Analysis Assignment
 
+29/11/2022
+----------
+Adding data from existing sources so that when I simulate the data I can compare it to see if it is similar.
+
 09/11/2022
 ----------
 Some research
