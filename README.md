@@ -1,6 +1,32 @@
 # PfDA_Assignment
 Programming for Data Analysis Assignment
 
+01/12/2022
+----------
+Worked on getting datasets on grades and attendance as well as engagement with classes. I am importing this data and plotting them in histograms to see the distribution so that I can determine the type of distribution each variable falls into.
+
+Also doing some secondary reseacrh on the distributions for the various variables.
+
+
+Possible research on distribution of grades and attendance:
+
+https://michaelminn.net/tutorials/normal-curve-grading/
+
+https://www.researchgate.net/figure/Distribution-of-Student-Attendance_fig1_245622925
+
+https://www.analyticsvidhya.com/blog/2017/09/6-probability-distributions-data-science/
+
+https://datasciencedojo.com/blog/types-of-statistical-distributions-in-ml/
+
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0187078
+
+https://www.researchgate.net/publication/245622925_Causes_and_Consequences_of_Skipping_Class_in_College
+(pdf downloaded)
+
+https://homework.study.com/explanation/high-school-gpas-are-normally-distributed-with-a-mean-of-3-06-and-a-standard-deviation-of-0-40-what-is-the-probability-of-a-randomly-chosen-student-having-a-gpa-between-3-54-and-3-80.html
+
+
+
 30/11/2022
 ----------
 Added more data to original dataset.
