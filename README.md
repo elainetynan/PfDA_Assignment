@@ -1,8 +1,23 @@
 # PfDA_Assignment
 Programming for Data Analysis Assignment
 
-02/12/2022
-----------
+02/12/2022 b
+------------
+
+Further work on the research of the distribution of grades, attendance and engagement of students.
+
+I also resourced more of my own data in relation to student engagement.
+
+Started the data simulation
+
+
+
+Reading for Attendance - Grade Correlation:
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5678706/
+
+
+02/12/2022 a
+------------
 Updated graphs to ake them easier to read.
 Did some tidy up of Notebook.
 Did a little more analysis on Pre-covid attendance and updated interim conclusions.
