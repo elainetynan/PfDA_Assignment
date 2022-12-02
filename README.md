@@ -1,6 +1,13 @@
 # PfDA_Assignment
 Programming for Data Analysis Assignment
 
+02/12/2022
+----------
+Updated graphs to ake them easier to read.
+Did some tidy up of Notebook.
+Did a little more analysis on Pre-covid attendance and updated interim conclusions.
+
+
 01/12/2022
 ----------
 Worked on getting datasets on grades and attendance as well as engagement with classes. I am importing this data and plotting them in histograms to see the distribution so that I can determine the type of distribution each variable falls into.
