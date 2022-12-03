@@ -3,6 +3,14 @@ Programming for Data Analysis Assignment
 
 03/12/2022
 ----------
+Completed research section of notebook.
+
+Worked on simulating data in 2 different distributions.
+
+Next job is to make the grade colum dependant on the Engagement and Attendance columns.
+
+03/12/2022
+----------
 
 Continuing with research into the type of data for grades, attendance and VLE activity of students.
 Started the simulation of data for same.
