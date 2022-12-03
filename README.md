@@ -1,6 +1,12 @@
 # PfDA_Assignment
 Programming for Data Analysis Assignment
 
+03/12/2022
+----------
+
+Continuing with research into the type of data for grades, attendance and VLE activity of students.
+Started the simulation of data for same.
+
 02/12/2022 b
 ------------
 
@@ -9,8 +15,6 @@ Further work on the research of the distribution of grades, attendance and engag
 I also resourced more of my own data in relation to student engagement.
 
 Started the data simulation
-
-
 
 Reading for Attendance - Grade Correlation:
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5678706/
