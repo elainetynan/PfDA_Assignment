@@ -1,19 +1,58 @@
 # PfDA_Assignment
 Programming for Data Analysis Assignment
 
-03/12/2022
+About this README file
+----------------------
+This file has the following sections:
+1. Running the Project
+2. Conclusions
+3. Interim Notes - Each time I worked on the project I added the date and some information about
+                   the work I had completed in each particular instance. I felt this could
+                   suplement the commit messages in my github repository.
+
+
+Running the Project
+-------------------
+The project is completed in a Jupyter Notebook called PfDA_Assignment.ipynb. this is a Python 3 Jupyter Notebook.
+There is nothing extraordainary about the notebook and any user should be able to run it in the normal way a Jupyter Notebook is run. All the data is stored in the folder/directory data and this folder needs to be stored in the same directory as the Jupyter Notebook so that it can run and import the data.
+There were no additional libraries downloaded in creating this notebook.
+
+
+Conclusions
+-----------
+This project was a great learning tool. Although I have been using Jupyter Notebook in the modules in this course this is the first Project I have completed where I was not entirely directed as to what to put into the notebook.
+I learned about Creating a table of contents, which was actually straight forward as it is simply a list of links. I also learned of some of the limitations (and work-arounds) of Jupyter Notebook with regards to formatting and Styling the text and layout.
+I also learned a great deal about various distributions, not just the ones I ioncluded in my Project, but also the ones that did not suit my data also.
+Finally, as always, I learned some more really useful Python coding. I come from a coding background and thoroughly enjoy programming in any language and learning new languages. Before this course I had no experience with Python and had been trying to get the time to learn if for some years. This course has been just the thing to get me learning it.
+
+
+
+Interim Notes
+-------------
+
+
+04/12/2022
 ----------
+Completed the simulation of the data and did the conclusions.
+
+Did some tidy up of the Jupyter notebook and completed my table of contents
+
+
+03/12/2022 b
+------------
 Completed research section of notebook.
 
 Worked on simulating data in 2 different distributions.
 
 Next job is to make the grade colum dependant on the Engagement and Attendance columns.
 
+
 03/12/2022
 ----------
 
 Continuing with research into the type of data for grades, attendance and VLE activity of students.
 Started the simulation of data for same.
+
 
 02/12/2022 b
 ------------
@@ -88,6 +127,7 @@ https://towardsdatascience.com/a-simple-way-to-analyze-student-performance-data-
 29/11/2022
 ----------
 Adding data from existing sources so that when I simulate the data I can compare it to see if it is similar.
+
 
 09/11/2022
 ----------
